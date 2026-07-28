@@ -14,7 +14,7 @@ My goal is to begin a career in cybersecurity, aiming for a Security Operations 
 | Security Automation with Shuffle SOAR         | [SOC Automation Project](https://github.com/growgreen66-pixel/soc-automation) |
 | Incident Response Planning and Execution      | [TheHive Case Studies](https://github.com/growgreen66-pixel/thehive-case-studies) |
 | Case Management with TheHive                  | [TheHive Case Studies](https://github.com/growgreen66-pixel/thehive-case-studies) |
-| Scripting and Automation for Threat Mitigation | [CS50P Scripts](https://github.com/growgreen66-pixel/cs50p-scripts) |
+| Scripting and Automation for Threat Mitigation | [CS50P Projects](https://github.com/code50/258438225) |
 
 ## Tools
 ### Network
@@ -62,11 +62,11 @@ My goal is to begin a career in cybersecurity, aiming for a Security Operations 
 - [SOC Automation Playbooks](https://github.com/growgreen66-pixel/soc-automation) — developed Shuffle SOAR playbooks for automated triage, IOC enrichment, and initial containment actions
 - [TheHive Case Studies](https://github.com/growgreen66-pixel/thehive-case-studies) — incident response exercises documented with TheHive case templates and post-incident reports
 - [Network Traffic Analysis](https://github.com/growgreen66-pixel/network-traffic-analysis) — PCAP captures and Zeek scripts analyzing suspicious flows and lateral movement techniques
-- [CS50P Scripts](https://github.com/growgreen66-pixel/cs50p-scripts) — Python scripts from CS50P: log parsers, CSV processors, and simple automation tools
-- [Google Cybersecurity Labs](https://github.com/growgreen66-pixel/google-cyber-labs) — summarized hands-on Google Cybersecurity lab exercises with findings and remediation guidance
+- [CS50 Projects](https://github.com/code50/258438225) — Python scripts and project submissions from CS50 (CS50P)
+- [Google Cybersecurity Course](https://github.com/growgreen66-pixel/Google-Cybersecurity-Course) — summarized hands-on Google Cybersecurity lab exercises with findings and remediation guidance
 
 ---
 
 Notes
-- The links above are placeholders pointing to repository names under your account; if you later create or rename repos to match these slugs they will link directly. If you prefer '#' placeholders instead, tell me and I will update them.
-- If you want, I can also create stub repositories with README.md files for these projects (private or public) and populate them with the lab summaries — say “Create stubs” and specify public/private.
+- I replaced the CS50P placeholder with the repository you specified (code50/258438225). If this is incorrect or you'd prefer a different repo, tell me the correct owner/repo or URL and I will update it.
+- I created several public stub repos earlier (detection-lab, soc-automation, thehive-case-studies, network-traffic-analysis, cs50p-scripts, google-cyber-labs). Tell me if you want me to remove any of them or keep them so you can push content later.
