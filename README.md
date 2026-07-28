@@ -4,39 +4,31 @@
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. I enjoy hands-on labs, learning security tooling, and contributing to small open-source proj[...]
 
 ## Objective
-My goal is to begin a career in cybersecurity, aiming for a Security Operations Center (SOC) role as a Tier 1 Analyst where I can apply log analysis, incident response, and automation skills while con[...]
+My goal is to begin a career in cybersecurity, aiming for a Security Operations Center (SOC) role as a Tier 1 Analyst where I can apply log analysis, incident response, and automation skills while [...]
 
 ## Skills & Stack
 - Languages: Python (scripting & automation), Bash, SQL
-- Security & Monitoring: SIEM ingestion and log analysis, detection engineering, threat hunting, incident detection and response, basic digital forensics, network traffic analysis (Suricata, Zeek), PC[...]
+- Security & Monitoring: SIEM ingestion and log analysis, detection engineering, threat hunting, incident detection and response, basic digital forensics, network traffic analysis (Suricata, Zeek)[...]
 - Automation & Orchestration: SOAR/playbook development (Shuffle), scripting for enrichment and automation, API integrations
 - Tools & Platforms: ELK (Elasticsearch/Logstash/Kibana), Microsoft Sentinel, Splunk, Elastic Stack, TheHive & Cortex, Velociraptor, Wireshark, Suricata, Zeek
 - Development & Operations: Git, Docker, Linux command line, unit testing, CI-friendly scripting
 
 ## Skills (from completed courses)
-- Google Cybersecurity Certificate — key skills:
-  - Security fundamentals: confidentiality, integrity, availability (CIA)
-  - Network security basics and traffic analysis (packet inspection concepts)
-  - Incident detection and response fundamentals and initial forensic triage
-  - Security operations concepts, monitoring, SIEM fundamentals, log investigation
-  - Basic hardening, access control, and remediation recommendations
-
-- CS50P (CS50's Introduction to Programming with Python) — key skills:
-  - Python programming: syntax, control flow, functions, modules
-  - File I/O and data parsing for log processing and automation
-  - Data structures (lists, dicts, sets) and basic algorithms
-  - Writing scripts and small automation tools, basic unit testing and debugging
-  - Interacting with web APIs and handling JSON/CSV data
+- Google Cybersecurity Certificate — key skills: included below in main Skills table
+- CS50P (CS50's Introduction to Programming with Python) — key skills: included below in main Skills table
 
 ## Skills
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
+| Skill                                         | Associated Project / Source         |
+|-----------------------------------------------|--------------------------------------|
 | SIEM Implementation and Log Analysis          | [Detection Lab](https://github.com/growgreen66-pixel/detection-lab) |
 | Network Traffic Monitoring and Attack Detection | [Detection Lab](https://github.com/growgreen66-pixel/detection-lab) |
 | Security Automation with Shuffle SOAR         | [SOC Automation Project](https://github.com/growgreen66-pixel/soc-automation) |
 | Incident Response Planning and Execution      | [TheHive Case Studies](https://github.com/growgreen66-pixel/thehive-case-studies) |
 | Case Management with TheHive                  | [TheHive Case Studies](https://github.com/growgreen66-pixel/thehive-case-studies) |
 | Scripting and Automation for Threat Mitigation | [CS50 Projects](https://github.com/code50/258438225) |
+| Security fundamentals (CIA, hardening, access) | Google Cybersecurity Certificate ([course repo](https://github.com/growgreen66-pixel/Google-Cybersecurity-Course)) |
+| Network security & traffic analysis           | Google Cybersecurity Certificate ([course repo](https://github.com/growgreen66-pixel/Google-Cybersecurity-Course)) |
+| Python scripting & automation                 | CS50P (CS50's Introduction to Programming with Python) |
 
 ## Tools
 ### Network
@@ -65,20 +57,6 @@ My goal is to begin a career in cybersecurity, aiming for a Security Operations 
 <img src="https://img.shields.io/badge/-CS50P_Python-00356B?&style=for-the-badge&logo=harvard&logoColor=white" />
 </div>
 
-### Skills gained from Google Cybersecurity Certificate
-- Security fundamentals: confidentiality, integrity, availability (CIA triad)
-- Network security basics and traffic analysis (packet inspection concepts)
-- Incident detection and response fundamentals, initial forensic triage
-- Security operations concepts, monitoring, and SIEM fundamentals
-- Basic hardening, access control, and remediation recommendations
-
-### Skills gained from CS50's Introduction to Programming with Python (CS50P)
-- Python programming: syntax, control flow, functions, and modules
-- Data structures and file I/O for log parsing and data processing
-- Scripting and automation for tooling and workflow automation
-- Basic unit testing and debugging practices
-- Working with web APIs and parsing JSON/CSV data
-
 ## Projects
 - [Detection Lab](https://github.com/growgreen66-pixel/detection-lab) — built a local Detection Lab using Suricata and Zeek feeding logs into an ELK stack; created detections and dashboards (lab not[...]
 - [SOC Automation Playbooks](https://github.com/growgreen66-pixel/soc-automation) — developed Shuffle SOAR playbooks for automated triage, IOC enrichment, and initial containment actions
@@ -90,13 +68,13 @@ My goal is to begin a career in cybersecurity, aiming for a Security Operations 
 ## Google Cybersecurity Labs
 Links to files from the Google Cybersecurity Course repository (only files currently in that repo):
 
-- [Algorithm for file updates in Python.pdf](https://github.com/growgreen66-pixel/Google-Cybersecurity-Course/blob/main/Algorithm%20for%20file%20updates%20in%20Python.pdf)
-- [Apply filters to SQL queries exemplar.pdf](https://github.com/growgreen66-pixel/Google-Cybersecurity-Course/blob/main/Apply%20filters%20to%20SQL%20queries%20exemplar.pdf)
-- [File permissions in Linux.pdf](https://github.com/growgreen66-pixel/Google-Cybersecurity-Course/blob/main/File%20permissions%20in%20Linux.pdf)
-- [Google Cybersecurity Course README](https://github.com/growgreen66-pixel/Google-Cybersecurity-Course/blob/main/README.md)
+- [Algorithm for file updates in Python.pdf](https://github.com/growgreen66-pixel/Google-Cybersecurity-Course/blob/main/Algorithm%20for%20file%20updates%20in%20Python.pdf) — Example Python algorithm for safely updating files; useful for automation and log-safe writes.
+- [Apply filters to SQL queries exemplar.pdf](https://github.com/growgreen66-pixel/Google-Cybersecurity-Course/blob/main/Apply%20filters%20to%20SQL%20queries%20exemplar.pdf) — SQL filtering examples and best practices for querying logs and datasets.
+- [File permissions in Linux.pdf](https://github.com/growgreen66-pixel/Google-Cybersecurity-Course/blob/main/File%20permissions%20in%20Linux.pdf) — Practical guide to Linux file permissions, ownership, and secure permission handling.
+- [Google Cybersecurity Course README](https://github.com/growgreen66-pixel/Google-Cybersecurity-Course/blob/main/README.md) — Overview of the course labs, objectives, and key takeaways.
 
 ---
 
 Notes
-- I updated the Skills & Stack section to explicitly include the skills you learned from the Google Cybersecurity Certificate and CS50P, and kept the dedicated "Skills (from completed courses)" area f[...]
-- If you'd like the course skills collapsed into the main Skills table instead, or want shorter one-line skill summaries, tell me and I will update accordingly.
+- I updated the Skills & Stack section to explicitly include the skills you learned from the Google Cybersecurity Certificate and CS50P and collapsed those course skills into the main Skills table as one-line entries.
+- I added short descriptions next to each linked lab file for quick context. If you'd like different wording or longer summaries, I can expand them.
