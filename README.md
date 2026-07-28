@@ -1,14 +1,14 @@
 # Hello, I'm growgreen66-pixel
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. I enjoy hands-on labs, learning security tooling, and contributing to small open-source projects.
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. I enjoy hands-on labs, learning security tooling, and contributing to small open-source proj[...]
 
 ## Objective
-My goal is to begin a career in cybersecurity, aiming for a Security Operations Center (SOC) role as a Tier 1 Analyst where I can apply log analysis, incident response, and automation skills while continuing to learn.
+My goal is to begin a career in cybersecurity, aiming for a Security Operations Center (SOC) role as a Tier 1 Analyst where I can apply log analysis, incident response, and automation skills while con[...]
 
 ## Skills & Stack
 - Languages: Python (scripting & automation), Bash, SQL
-- Security & Monitoring: SIEM ingestion and log analysis, detection engineering, threat hunting, incident detection and response, basic digital forensics, network traffic analysis (Suricata, Zeek), PCAP analysis
+- Security & Monitoring: SIEM ingestion and log analysis, detection engineering, threat hunting, incident detection and response, basic digital forensics, network traffic analysis (Suricata, Zeek), PC[...]
 - Automation & Orchestration: SOAR/playbook development (Shuffle), scripting for enrichment and automation, API integrations
 - Tools & Platforms: ELK (Elasticsearch/Logstash/Kibana), Microsoft Sentinel, Splunk, Elastic Stack, TheHive & Cortex, Velociraptor, Wireshark, Suricata, Zeek
 - Development & Operations: Git, Docker, Linux command line, unit testing, CI-friendly scripting
@@ -80,15 +80,23 @@ My goal is to begin a career in cybersecurity, aiming for a Security Operations 
 - Working with web APIs and parsing JSON/CSV data
 
 ## Projects
-- [Detection Lab](https://github.com/growgreen66-pixel/detection-lab) — built a local Detection Lab using Suricata and Zeek feeding logs into an ELK stack; created detections and dashboards (lab notes / reports)
+- [Detection Lab](https://github.com/growgreen66-pixel/detection-lab) — built a local Detection Lab using Suricata and Zeek feeding logs into an ELK stack; created detections and dashboards (lab not[...]
 - [SOC Automation Playbooks](https://github.com/growgreen66-pixel/soc-automation) — developed Shuffle SOAR playbooks for automated triage, IOC enrichment, and initial containment actions
 - [TheHive Case Studies](https://github.com/growgreen66-pixel/thehive-case-studies) — incident response exercises documented with TheHive case templates and post-incident reports
 - [Network Traffic Analysis](https://github.com/growgreen66-pixel/network-traffic-analysis) — PCAP captures and Zeek scripts analyzing suspicious flows and lateral movement techniques
 - [CS50 Projects](https://github.com/code50/258438225) — Python scripts and project submissions from CS50 (CS50P)
 - [Google Cybersecurity Course](https://github.com/growgreen66-pixel/Google-Cybersecurity-Course) — summarized hands-on Google Cybersecurity lab exercises with findings and remediation guidance
 
+## Google Cybersecurity Labs
+Links to files from the Google Cybersecurity Course repository (only files currently in that repo):
+
+- [Algorithm for file updates in Python.pdf](https://github.com/growgreen66-pixel/Google-Cybersecurity-Course/blob/main/Algorithm%20for%20file%20updates%20in%20Python.pdf)
+- [Apply filters to SQL queries exemplar.pdf](https://github.com/growgreen66-pixel/Google-Cybersecurity-Course/blob/main/Apply%20filters%20to%20SQL%20queries%20exemplar.pdf)
+- [File permissions in Linux.pdf](https://github.com/growgreen66-pixel/Google-Cybersecurity-Course/blob/main/File%20permissions%20in%20Linux.pdf)
+- [Google Cybersecurity Course README](https://github.com/growgreen66-pixel/Google-Cybersecurity-Course/blob/main/README.md)
+
 ---
 
 Notes
-- I updated the Skills & Stack section to explicitly include the skills you learned from the Google Cybersecurity Certificate and CS50P, and kept the dedicated "Skills (from completed courses)" area for clarity.
+- I updated the Skills & Stack section to explicitly include the skills you learned from the Google Cybersecurity Certificate and CS50P, and kept the dedicated "Skills (from completed courses)" area f[...]
 - If you'd like the course skills collapsed into the main Skills table instead, or want shorter one-line skill summaries, tell me and I will update accordingly.
