@@ -16,13 +16,13 @@ Seek a Security Operations Center (SOC) Tier 1 Analyst role to apply log analysi
 ## Skills
 | Skill                                         | Associated Project / Source         |
 |-----------------------------------------------|--------------------------------------|
-| SIEM Implementation and Log Analysis          | [Detection Lab](https://github.com/growgreen66-pixel/detection-lab) |
+| SIEM Implementation and Log Analysis          | [Detection Lab](https://github.com/growgreen66-pixel/detection-lab) — [example SQL filters](samples/example_sql_filters.sql) |
 | Network Traffic Monitoring and Attack Detection | [Detection Lab](https://github.com/growgreen66-pixel/detection-lab) |
 | Security Automation with Shuffle SOAR         | [SOC Automation Project](https://github.com/growgreen66-pixel/soc-automation) |
 | Incident Response Planning and Execution      | [TheHive Case Studies](https://github.com/growgreen66-pixel/thehive-case-studies) |
 | Case Management with TheHive                  | [TheHive Case Studies](https://github.com/growgreen66-pixel/thehive-case-studies) |
-| Scripting and Automation                      | [CS50 Projects](https://github.com/code50/258438225) |
-| Security fundamentals & hardening             | Google Cybersecurity Certificate ([course repo](https://github.com/growgreen66-pixel/Google-Cybersecurity-Course)) |
+| Scripting and Automation                      | [CS50 Projects](https://github.com/code50/258438225) — [log parser sample](samples/log_parser.py) |
+| Security fundamentals & hardening             | Google Cybersecurity Certificate ([course repo](https://github.com/growgreen66-pixel/Google-Cybersecurity-Course)) — [file permissions notes](samples/file_permissions_notes.md) |
 | Network security & traffic analysis           | Google Cybersecurity Certificate ([course repo](https://github.com/growgreen66-pixel/Google-Cybersecurity-Course)) |
 
 ## Tools
@@ -55,6 +55,12 @@ Links to files in the Google Cybersecurity Course repo (current files):
 - [Apply filters to SQL queries exemplar.pdf](https://github.com/growgreen66-pixel/Google-Cybersecurity-Course/blob/main/Apply%20filters%20to%20SQL%20queries%20exemplar.pdf) — SQL filtering examples for log queries.
 - [File permissions in Linux.pdf](https://github.com/growgreen66-pixel/Google-Cybersecurity-Course/blob/main/File%20permissions%20in%20Linux.pdf) — Practical Linux permission and ownership guide.
 - [Google Cybersecurity Course README](https://github.com/growgreen66-pixel/Google-Cybersecurity-Course/blob/main/README.md) — Course overview and lab objectives.
+
+## Sample artifacts
+Small example files added to demonstrate applied skills (linked here):
+- [samples/log_parser.py](samples/log_parser.py) — simple Python log parser that extracts log levels and IP counts.
+- [samples/example_sql_filters.sql](samples/example_sql_filters.sql) — commented SQL examples for filtering and aggregating logs.
+- [samples/file_permissions_notes.md](samples/file_permissions_notes.md) — concise guide and examples for secure Linux file permissions.
 
 ---
 
