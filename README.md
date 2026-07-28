@@ -6,6 +6,28 @@ I am a recent graduate with a profound interest in technology and a dedication t
 ## Objective
 My goal is to begin a career in cybersecurity, aiming for a Security Operations Center (SOC) role as a Tier 1 Analyst where I can apply log analysis, incident response, and automation skills while continuing to learn.
 
+## Skills & Stack
+- Languages: Python (scripting & automation), Bash, SQL
+- Security & Monitoring: SIEM ingestion and log analysis, detection engineering, threat hunting, incident detection and response, basic digital forensics, network traffic analysis (Suricata, Zeek), PCAP analysis
+- Automation & Orchestration: SOAR/playbook development (Shuffle), scripting for enrichment and automation, API integrations
+- Tools & Platforms: ELK (Elasticsearch/Logstash/Kibana), Microsoft Sentinel, Splunk, Elastic Stack, TheHive & Cortex, Velociraptor, Wireshark, Suricata, Zeek
+- Development & Operations: Git, Docker, Linux command line, unit testing, CI-friendly scripting
+
+## Skills (from completed courses)
+- Google Cybersecurity Certificate — key skills:
+  - Security fundamentals: confidentiality, integrity, availability (CIA)
+  - Network security basics and traffic analysis (packet inspection concepts)
+  - Incident detection and response fundamentals and initial forensic triage
+  - Security operations concepts, monitoring, SIEM fundamentals, log investigation
+  - Basic hardening, access control, and remediation recommendations
+
+- CS50P (CS50's Introduction to Programming with Python) — key skills:
+  - Python programming: syntax, control flow, functions, modules
+  - File I/O and data parsing for log processing and automation
+  - Data structures (lists, dicts, sets) and basic algorithms
+  - Writing scripts and small automation tools, basic unit testing and debugging
+  - Interacting with web APIs and handling JSON/CSV data
+
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -14,7 +36,7 @@ My goal is to begin a career in cybersecurity, aiming for a Security Operations 
 | Security Automation with Shuffle SOAR         | [SOC Automation Project](https://github.com/growgreen66-pixel/soc-automation) |
 | Incident Response Planning and Execution      | [TheHive Case Studies](https://github.com/growgreen66-pixel/thehive-case-studies) |
 | Case Management with TheHive                  | [TheHive Case Studies](https://github.com/growgreen66-pixel/thehive-case-studies) |
-| Scripting and Automation for Threat Mitigation | [CS50P Projects](https://github.com/code50/258438225) |
+| Scripting and Automation for Threat Mitigation | [CS50 Projects](https://github.com/code50/258438225) |
 
 ## Tools
 ### Network
@@ -68,5 +90,5 @@ My goal is to begin a career in cybersecurity, aiming for a Security Operations 
 ---
 
 Notes
-- I replaced the CS50P placeholder with the repository you specified (code50/258438225). If this is incorrect or you'd prefer a different repo, tell me the correct owner/repo or URL and I will update it.
-- I created several public stub repos earlier (detection-lab, soc-automation, thehive-case-studies, network-traffic-analysis, cs50p-scripts, google-cyber-labs). Tell me if you want me to remove any of them or keep them so you can push content later.
+- I updated the Skills & Stack section to explicitly include the skills you learned from the Google Cybersecurity Certificate and CS50P, and kept the dedicated "Skills (from completed courses)" area for clarity.
+- If you'd like the course skills collapsed into the main Skills table instead, or want shorter one-line skill summaries, tell me and I will update accordingly.
