@@ -9,12 +9,12 @@ My goal is to begin a career in cybersecurity, aiming for a Security Operations 
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | [Detection Lab](https://google.com) |
-| Network Traffic Monitoring and Attack Detection | [Detection Lab](https://google.com) |
-| Security Automation with Shuffle SOAR         | SOC Automation Lab |
-| Incident Response Planning and Execution      | SOC Automation Lab |
-| Case Management with TheHive                  | SOC Automation Lab |
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab |
+| SIEM Implementation and Log Analysis          | [Detection Lab](https://github.com/growgreen66-pixel/detection-lab) |
+| Network Traffic Monitoring and Attack Detection | [Detection Lab](https://github.com/growgreen66-pixel/detection-lab) |
+| Security Automation with Shuffle SOAR         | [SOC Automation Project](https://github.com/growgreen66-pixel/soc-automation) |
+| Incident Response Planning and Execution      | [TheHive Case Studies](https://github.com/growgreen66-pixel/thehive-case-studies) |
+| Case Management with TheHive                  | [TheHive Case Studies](https://github.com/growgreen66-pixel/thehive-case-studies) |
+| Scripting and Automation for Threat Mitigation | [CS50P Scripts](https://github.com/growgreen66-pixel/cs50p-scripts) |
 
 ## Tools
 ### Network
@@ -39,20 +39,34 @@ My goal is to begin a career in cybersecurity, aiming for a Security Operations 
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google_Cybersecurity-0F9D58?&style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/-CS50P_Python-00356B?&style=for-the-badge&logo=harvard&logoColor=white" />
 </div>
 
+### Skills gained from Google Cybersecurity Certificate
+- Security fundamentals: confidentiality, integrity, availability (CIA triad)
+- Network security basics and traffic analysis (packet inspection concepts)
+- Incident detection and response fundamentals, initial forensic triage
+- Security operations concepts, monitoring, and SIEM fundamentals
+- Basic hardening, access control, and remediation recommendations
+
+### Skills gained from CS50's Introduction to Programming with Python (CS50P)
+- Python programming: syntax, control flow, functions, and modules
+- Data structures and file I/O for log parsing and data processing
+- Scripting and automation for tooling and workflow automation
+- Basic unit testing and debugging practices
+- Working with web APIs and parsing JSON/CSV data
+
 ## Projects
-- Detection Lab — hands-on lab for building detection and logging environments
-- SOC Automation Project — automation playbooks and tooling for incident handling
+- [Detection Lab](https://github.com/growgreen66-pixel/detection-lab) — built a local Detection Lab using Suricata and Zeek feeding logs into an ELK stack; created detections and dashboards (lab notes / reports)
+- [SOC Automation Playbooks](https://github.com/growgreen66-pixel/soc-automation) — developed Shuffle SOAR playbooks for automated triage, IOC enrichment, and initial containment actions
+- [TheHive Case Studies](https://github.com/growgreen66-pixel/thehive-case-studies) — incident response exercises documented with TheHive case templates and post-incident reports
+- [Network Traffic Analysis](https://github.com/growgreen66-pixel/network-traffic-analysis) — PCAP captures and Zeek scripts analyzing suspicious flows and lateral movement techniques
+- [CS50P Scripts](https://github.com/growgreen66-pixel/cs50p-scripts) — Python scripts from CS50P: log parsers, CSV processors, and simple automation tools
+- [Google Cybersecurity Labs](https://github.com/growgreen66-pixel/google-cyber-labs) — summarized hands-on Google Cybersecurity lab exercises with findings and remediation guidance
 
 ---
 
-If you'd like, I can:
-- Replace placeholder links (Detection Lab, SOC Automation Lab) with real repository links from your account.
-- Draft a short one-line bio or objective tailored to your background.
-- Add contact info and badges for social links.
+Notes
+- The links above are placeholders pointing to repository names under your account; if you later create or rename repos to match these slugs they will link directly. If you prefer '#' placeholders instead, tell me and I will update them.
+- If you want, I can also create stub repositories with README.md files for these projects (private or public) and populate them with the lab summaries — say “Create stubs” and specify public/private.
