@@ -17,10 +17,6 @@ Seek a Security Operations Center (SOC) Tier 1 Analyst role to apply log analysi
 | Skill                                         | Associated Project / Source         |
 |-----------------------------------------------|--------------------------------------|
 | SIEM Implementation and Log Analysis          | [Detection Lab](https://github.com/growgreen66-pixel/detection-lab) — [example SQL filters](samples/example_sql_filters.sql) |
-| Network Traffic Monitoring and Attack Detection | [Detection Lab](https://github.com/growgreen66-pixel/detection-lab) |
-| Security Automation with Shuffle SOAR         | [SOC Automation Project](https://github.com/growgreen66-pixel/soc-automation) |
-| Incident Response Planning and Execution      | [TheHive Case Studies](https://github.com/growgreen66-pixel/thehive-case-studies) |
-| Case Management with TheHive                  | [TheHive Case Studies](https://github.com/growgreen66-pixel/thehive-case-studies) |
 | Scripting and Automation                      | [CS50 Projects](https://github.com/code50/258438225) — [log parser sample](samples/log_parser.py) |
 | Security fundamentals & hardening             | Google Cybersecurity Certificate ([course repo](https://github.com/growgreen66-pixel/Google-Cybersecurity-Course)) — [file permissions notes](samples/file_permissions_notes.md) |
 | Network security & traffic analysis           | Google Cybersecurity Certificate ([course repo](https://github.com/growgreen66-pixel/Google-Cybersecurity-Course)) |
