@@ -1,45 +1,58 @@
-# Hi there 👋
+# Hello, I'm growgreen66-pixel
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome — this repository is the GitHub profile README for growgreen66-pixel.
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. I enjoy hands-on labs, learning security tooling, and contributing to small open-source projects.
 
-## About
-I'm a developer and tinkerer who uses this profile README as a place to introduce myself and link to my projects. This repository is intended as a personal homepage on GitHub where visitors can learn what I work on and how to get in touch.
+## Objective
+My goal is to begin a career in cybersecurity, aiming for a Security Operations Center (SOC) role as a Tier 1 Analyst where I can apply log analysis, incident response, and automation skills while continuing to learn.
 
-> Tip: Edit this file to add your real name, short bio, interests, and links to your projects.
+## Skills
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | [Detection Lab](https://google.com) |
+| Network Traffic Monitoring and Attack Detection | [Detection Lab](https://google.com) |
+| Security Automation with Shuffle SOAR         | SOC Automation Lab |
+| Incident Response Planning and Execution      | SOC Automation Lab |
+| Case Management with TheHive                  | SOC Automation Lab |
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab |
 
-## What I do
-- Exploring software, creative coding, and small projects.
-- Learning new tools and improving existing projects.
-- Contributing to open-source when I can.
+## Tools
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
-## Skills & Stack
-- Languages: (add the languages you use, e.g. JavaScript, Python, Java)
-- Tools & frameworks: (add your main frameworks or tools, e.g. React, Node.js, Flask)
-- Other: Git, Docker, CLI tooling
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
 
 ## Projects
-This profile can link to your public repositories. A few places to highlight:
-- Add links to repositories you want to showcase (pin them on your profile).
-- Describe one-sentence summary of each project and what visitors should try.
-
-## How to contact me
-- GitHub: https://github.com/growgreen66-pixel
-- Email: (add your email)
-- Twitter / Mastodon / Other: (add handles)
-
-## Contributing
-This repository is a profile README — it’s fine to open issues or PRs if you have suggestions for improvements, but please reach out before making content changes to someone else’s profile.
-
-## Customize this README
-To personalize this page:
-1. Click the pencil icon on this file in GitHub to edit it inline.
-2. Replace placeholder sections (About, Skills, Contact) with your information.
-3. Commit changes to update your profile page immediately.
+- Detection Lab — hands-on lab for building detection and logging environments
+- SOC Automation Project — automation playbooks and tooling for incident handling
 
 ---
 
 If you'd like, I can:
-- Add a short bio written for you if you tell me your role and interests.
-- Generate a projects list from your public repos and add short descriptions.
-- Add badges or GitHub activity widgets.
-
+- Replace placeholder links (Detection Lab, SOC Automation Lab) with real repository links from your account.
+- Draft a short one-line bio or objective tailored to your background.
+- Add contact info and badges for social links.
