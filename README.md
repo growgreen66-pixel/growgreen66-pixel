@@ -60,4 +60,3 @@ Small example files added to demonstrate applied skills (linked here):
 
 ---
 
-Shortened and consolidated README: removed duplicate "skills gained" sections and trimmed descriptions for a concise profile. Connect via LinkedIn for questions or collaboration.
